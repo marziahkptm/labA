@@ -1,10 +1,6 @@
 deployment:
-  prod:
-    branch: master
-    heroku:
-      appname: boiling-lake-40278
   staging:
-    branch: staging
+    branch: master
     heroku:
       appname: ancient-hollows-74737
 
