@@ -1,9 +1,9 @@
 deployment:
 prod:
-	branch: master
-	heroku: 
-		appname: 
+branch: master
+heroku: 
+appname: 
 staging:
-	branch: staging
-	heroku:
-		appname: 
+branch: staging
+heroku:
+appname: 
