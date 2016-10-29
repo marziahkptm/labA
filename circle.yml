@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: circle-hello
+      appname: boiling-lake-40278
   staging:
     branch: staging
     heroku:
