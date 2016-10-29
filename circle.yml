@@ -6,5 +6,7 @@ deployment:
   staging:
     branch: staging
     heroku:
-      appname: circle-hello-staging
+      appname: ancient-hollows-74737
+
+
 
